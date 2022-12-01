@@ -5,10 +5,10 @@ account: junheepark0531
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7781223
-bundleId: 6576031
+bundleId: 6576157
 url: https://junheepark0531.shinyapps.io/a5-Junheepark0531/
-when: 1669873369.01355
-lastSyncTime: 1669873369.01356
+when: 1669876312.89317
+lastSyncTime: 1669876312.89318
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: README.md
+ignoredFiles: .RData|LICENSE|README.md|source/.DS_Store|source/owid-co2-data.csv

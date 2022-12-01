@@ -1,7 +1,13 @@
 #A5 ui.R
 library(shiny)
+library(lintr)
+library(stringr)
+library(ggplot2)
+library(plotly)
+library(dplyr)
 
 ####Format Introduction page with image and texts####
+co2_data <- read.csv("https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv")
 
 intro_page <- tabPanel(
   "Introduction", 

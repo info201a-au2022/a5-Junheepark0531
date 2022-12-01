@@ -1,7 +1,11 @@
 #A5 app.R
 # Load Shiny
-
 library(shiny)
+library(lintr)
+library(stringr)
+library(ggplot2)
+library(plotly)
+library(dplyr)
 
 
 # Use source() to execute the `app_ui.R` and `app_server.R` files. These will
